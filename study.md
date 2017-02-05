@@ -54,7 +54,7 @@ https://www.postgresql.org/docs/9.5/static/tutorial-createdb.html
 What shell command would you execute to remove a database named `mydb`?
 
 ```sh
-dropdb my db
+dropdb mydb
 https://www.postgresql.org/docs/9.5/static/tutorial-createdb.html
 ```
 
