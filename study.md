@@ -38,7 +38,7 @@ What characters indicate a possibly repeating element in a command?
 Show the characters and give their name.
 
 ```md
-...
+dots ...
 https://www.postgresql.org/docs/9.5/static/notation.html
 ```
 
